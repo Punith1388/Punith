@@ -13,7 +13,7 @@ AI/ML Graduate (2025) | Skilled in Python, SQL, Machine Learning
 
 ## 📊 GitHub Stats  
 ![Punith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Punith1388&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punith1388&layout=compact&theme=radical)  
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punith1388&layout=compact&theme=radical) 
 
 ---
 
@@ -24,6 +24,11 @@ AI/ML Graduate (2025) | Skilled in Python, SQL, Machine Learning
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://img.icons8.com/fluency/48/000000/design.png" alt="UI/UX" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/salesforce.png" alt="Salesforce" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/image.png" alt="Image Editing" width="50" height="50"/>
+  <img src="https://img.icons8.com/color/48/000000/video.png" alt="Video Editing" width="50" height="50"/>
 </p>
 
 ---
