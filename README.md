@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Punith P V  
 
-AI/ML Graduate (2025) | Skilled in Python, SQL, Machine Learning  
+AI/ML Graduate (2025) | Skilled in Python, MySQL, Machine Learning  
 🎨 Designing Skills: Canva, Figma, UI/UX Design  
 📄 Published Author (IJST) | Passionate about AI & Real-world Applications  
 🏋️ VTU Best Physique Bronze Medalist '24 | Team Champion  
@@ -13,7 +13,8 @@ AI/ML Graduate (2025) | Skilled in Python, SQL, Machine Learning
 
 ## 📊 GitHub Stats  
 ![Punith's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Punith1388&show_icons=true&theme=radical)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punith1388&layout=compact&theme=radical) 
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Punith1388&layout=compact&theme=radical)
+
 
 ---
 
