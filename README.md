@@ -20,7 +20,7 @@ AI/ML Graduate (2025) | Skilled in Python, SQL, Machine Learning
 ## 🛠 Skills & Tools  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="SQL" width="50" height="50"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="SQL" width="50" height="50"/>
   <img src="https://img.icons8.com/color/48/000000/canva.png" alt="Canva" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50"/>
   <img src="https://img.icons8.com/fluency/48/000000/design.png" alt="UI/UX" width="50" height="50"/>
